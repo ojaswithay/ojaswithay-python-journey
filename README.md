@@ -18,6 +18,14 @@ I created this repository to:
 
 ---
 
+## 🤝 Let's Collaborate
+
+🚀 Currently looking for beginner-friendly AI/ML projects  
+🧠 Open to learning, building, and contributing  
+📬 DM me if you're working on something cool!
+
+---
+
 ## 📅 Day 1: First Script — `hello.py`
 
 ```python
@@ -29,8 +37,4 @@ deadline = "before 2025 retires into history"
 print("My name is", name)
 print("I'm on a journey to become an", goal, deadline)
 
-## 🤝 Let's Collaborate
 
-🚀 Currently looking for beginner-friendly AI/ML projects  
-🧠 Open to learning, building, and contributing  
-📬 DM me if you're working on something cool!
